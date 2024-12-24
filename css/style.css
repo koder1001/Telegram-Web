@@ -1,0 +1,39 @@
+.wrapper {
+    width: 320px;
+    margin: 0 auto;
+}
+.qr{
+    width: 290px;
+    margin: 100px auto 0px auto;
+}
+.qr > img {
+    width: 290px;
+}
+.content{
+    margin-top: 42px;
+}
+.content > img {
+    width: 320px;
+}
+.login{
+    margin-top: 40px;
+    text-align: center;
+}
+.login > a{
+    text-decoration: uppercase;
+    font-weight: 540;
+    font-size:18px;
+    font-family: sans-serif;
+    color: rgb(29, 181, 252);
+}
+.en-ru{
+    margin-top: 40px;
+    text-align: center;
+}
+.en-ru > a{
+    font-weight: 540;
+    text-decoration: uppercase;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: rgb(29, 181, 252);
+}
